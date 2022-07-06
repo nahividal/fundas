@@ -1,0 +1,13 @@
+main{
+    
+    .contenedor {
+        display: flex;
+        padding: 5rem;
+        justify-content: space-between;
+        text-align: center;
+    }
+    .btn-primary {
+        background-color: #8064A2 !important;
+        border-color: #8064A2 !important; 
+    }
+}

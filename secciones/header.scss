@@ -1,0 +1,17 @@
+header{
+    background-color: #CBA4C3;
+    background-size: cover;
+
+    .logoheader{
+        padding: 2rem;
+        width: 200px;
+      }
+
+     .navbar {
+        background-color: transparent !important;
+      }
+      
+      .navbar li :hover{
+        color: white;
+      }
+}
