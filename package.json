@@ -14,5 +14,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahividal/fundas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nahividal/fundas/issues"
+  },
+  "homepage": "https://github.com/nahividal/fundas#readme",
   "description": ""
 }

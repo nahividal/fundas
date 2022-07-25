@@ -10,4 +10,22 @@ main{
         background-color: #8064A2 !important;
         border-color: #8064A2 !important; 
     }
+
+
+}
+
+@media(max-width: 1048px){
+    main{
+        .contenedor{
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+    }
+}
+@media(max-width: 755px){
+    main{
+        .contenedor{
+            justify-content: center !important;
+        }
+    }
 }

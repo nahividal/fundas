@@ -34,3 +34,19 @@ section {
         border-color: #8064A2 !important; 
     }
 }
+
+@media(max-width: 1048px){
+    section{
+        .contenedor{
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+    }
+}
+@media(max-width: 755px){
+    section{
+        .contenedor{
+            justify-content: center !important;
+        }
+    }
+}
